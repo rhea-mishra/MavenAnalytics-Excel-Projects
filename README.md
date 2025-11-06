@@ -1,7 +1,7 @@
 # Maven Excel Projects
 
-### Project 1 - Data Analyst at Los Angeles International Airport (LAX)
-
+## Project 1 - Data Analyst at Los Angeles International Airport (LAX)
+**Project File :** <a href="" target="_blank"> </a>
 #### SITUATION
 You work as a data analyst at Los Angeles International Airport (LAX), the largest and busiest airport on the West Coast of the United States and the eighth busiest in the world.
 #### BRIEF
@@ -13,7 +13,7 @@ You have access to the airport’s flight delay and cancellation data*, which in
 </br> • Join data from multiple related tables
 </br> • Summarize the data to gain meaningful insights </br>
 
-### Project 2 - Sales Manager at Maven Electronics
+## Project 2 - Sales Manager at Maven Electronics
 **Project File :** <a href="https://github.com/rhea-mishra/MavenAnalytics-Excel-Projects/blob/main/Maven%20Electronics.xlsx" target="_blank"> Maven Electronics </a>
 #### SITUATION
 You work as a Sales Manager at Maven Electronics, an electronics retailer that sells computer components to businesses across the world.
