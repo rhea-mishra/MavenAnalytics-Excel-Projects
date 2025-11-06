@@ -1,8 +1,8 @@
 # Maven Excel Projects
 
-## Prject 1 - Data Analyst at Los Angeles International Airport (LAX)
+## Pr0ject 1 - Data Analyst at Los Angeles International Airport (LAX)
 
-### SITUATION
+#### SITUATION
 You work as a data analyst at Los Angeles International Airport (LAX), the largest and busiest airport on the West Coast of the United States and the eighth busiest in the world
 
 ### BRIEF
